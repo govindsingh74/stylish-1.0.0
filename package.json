@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.86.1",
+    "aos": "^2.3.4",
+    "lucide-react": "^0.555.0",
+    "react-router-dom": "^7.10.0",
+    "swiper": "^12.0.3"
+  }
+}
